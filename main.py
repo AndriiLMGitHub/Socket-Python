@@ -1,5 +1,6 @@
 from data import get_ip
 
+
 def main():
     get_ip
 
